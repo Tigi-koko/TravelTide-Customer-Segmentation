@@ -85,7 +85,10 @@ TravelTide-Customer-Segmentation/
 - **SQL** (PostgreSQL) – data extraction & cleaning  
 - **Python** (pandas, scikit-learn, seaborn, matplotlib) – feature engineering & clustering  
 - **Tableau** – dashboards & visualization  
-- **Google Colab / Jupyter Notebook** – analysis environment  
+- **Google Colab / Jupyter Notebook** – analysis environment
+## Tableau Dashboard
+Check out my interactive dashboard: (https://public.tableau.com/views/TravelTideProject_17521707822750/SegmentSummaryDS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
 
